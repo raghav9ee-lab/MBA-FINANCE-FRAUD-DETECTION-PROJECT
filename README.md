@@ -192,17 +192,8 @@ MBA (Finance)
 ## ⭐ If you found this project useful
 
 Please consider giving the repository a Star ⭐
-## Workflow Architecture
-
-![n8n Workflow](./n8n.png)
-
-## Dataset Overview
-
-![Dataset](./dataset.png)
-
-## Email Alert Example 1
-
-![Email Alert 1](./Email%201.jpeg)
-
-## Email Alert Example 2
-[2:29 pm, 12/06/2026] Rahul Kumar Chitkara: ![Email Alert 2](./Email%202.jpeg)
+![n8n Workflow Structure](images/n8nworkflow.png.jpeg)
+![Financial Risk Alert Email](images/FinancialRiskAlert.jpg.jpeg)
+![High Risk Fraud Alert Email](images/HighRiskFraudAlert.jpg.jpeg)
+![High Value CFO Alert Email](images/HIGHVALUE.jpg.jpeg)
+![Loan Approval Auto Rejection Email](images/LOANAPPROVEMENT.jpg.jpeg)
