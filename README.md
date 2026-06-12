@@ -1,4 +1,4 @@
-[2:26 pm, 12/06/2026] Rahul Kumar Chitkara: ## 🎯 Business Problem
+## 🎯 Business Problem
 
 Financial fraud is a major challenge for banks, fintech companies, and payment service providers. Fraudulent transactions can lead to significant financial losses and damage customer trust.
 
